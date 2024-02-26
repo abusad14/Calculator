@@ -9,6 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 50px;
+    background-color: #59a394;
 /*     background: linear-gradient(to right ,rgba(99, 232, 244, 0.883) ,rgb(55, 54, 54));
     overflow-x: hidden; */
 }
