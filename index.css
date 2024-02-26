@@ -9,8 +9,8 @@ body{
     justify-content: center;
     align-items: center;
     padding: 50px;
-    background: linear-gradient(to right ,rgba(99, 232, 244, 0.883) ,rgb(55, 54, 54));
-    overflow-x: hidden;
+/*     background: linear-gradient(to right ,rgba(99, 232, 244, 0.883) ,rgb(55, 54, 54));
+    overflow-x: hidden; */
 }
 .outter-div{
     /* background: linear-gradient(to right ,rgb(55, 54, 54), rgba(99, 232, 244, 0.883) ); */
